@@ -1,3 +1,3 @@
-Nard;Nard;22334455;nard@hoti.net;www.nard.net
-Nard;Nard;22334455;nard@hoti.net;www.nard.net
-Merita;Hoti;3344;meri@hoti.net;www.meri.net
+Jorn;Hoti;22224444;jorn@hoti.net;www.jorn.net
+Nard;Hoti;22334455;nard@hoti.net;www.nard.net
+Merita;Hoti;33441122;meri@hoti.net;www.meri.net
